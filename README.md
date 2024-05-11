@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **SaaS Solutions**
 
-- 💬 Ask me about **Angular, .NetCore**
+- 💬 Ask me about **Web Design, System Design**
 
 - 📫 How to reach me **david.donaldson1991@gmail.com**
 
