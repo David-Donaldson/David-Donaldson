@@ -19,7 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,nodejs,express,html,css,tailwind,bootstrap,cs,dotnet,php,python,mysql,firebase,aws,gcp,docker,nginx,git,github,githubactions,linux" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,nodejs,express,html,css,tailwind,bootstrap,cs,dotnet,php,python,mysql,firebase,aws,azure,gcp,docker,nginx,git,github,githubactions,linux,selenium" />
 </p>
 
 <p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=david-donaldson&theme=radical" alt="GitHub Streak" /></a></p>
